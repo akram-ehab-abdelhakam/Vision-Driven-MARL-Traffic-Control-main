@@ -1,0 +1,57 @@
+{
+  "intervals": [
+    {
+      "interval_id": 0,
+      "duration_seconds": 60,
+      "vehicle_type_distribution": {
+        "car": 0.8462,
+        "bus": 0.0385,
+        "truck": 0.0769,
+        "motorcycle": 0.0385,
+        "emergency": 0.0
+      }
+    },
+    {
+      "interval_id": 1,
+      "duration_seconds": 60,
+      "vehicle_type_distribution": {
+        "car": 0.6923,
+        "bus": 0.0577,
+        "truck": 0.1538,
+        "motorcycle": 0.0769,
+        "emergency": 0.0192
+      }
+    },
+    {
+      "interval_id": 2,
+      "duration_seconds": 60,
+      "vehicle_type_distribution": {
+        "car": 0.8947,
+        "bus": 0.0526,
+        "truck": 0.0395,
+        "motorcycle": 0.0132,
+        "emergency": 0.0
+      }
+    },
+    {
+      "interval_id": 3,
+      "duration_seconds": 50.8,
+      "vehicle_type_distribution": {
+        "car": 0.4737,
+        "bus": 0.1579,
+        "truck": 0.2632,
+        "motorcycle": 0.0,
+        "emergency": 0.1053
+      }
+    }
+  ],
+  "summary": {
+    "overall_type_distribution": {
+      "car": 0.7267,
+      "bus": 0.0767,
+      "truck": 0.1333,
+      "motorcycle": 0.0321,
+      "emergency": 0.0311
+    }
+  }
+}

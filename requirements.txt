@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+
+# Deep learning
+torch
+torch_geometric
+
+# SUMO traffic simulation (requires SUMO installed separately: https://sumo.dlr.de/docs/Installing/index.html)
+traci
+sumolib
+
+# Terminal UI / reporting
+rich
+openpyxl
+
+# Experiment tracking
+tensorboard

@@ -1,0 +1,256 @@
+{
+  "intervals": [
+    {
+      "interval_id": 0,
+      "duration_seconds": 60,
+      "total_vehicles_counted": 37.0,
+      "flow_rate_veh_per_hour": 3387.72,
+      "vehicle_type_distribution": {
+        "car": 0.7027,
+        "bus": 0.2027,
+        "truck": 0.0946,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "smoothed_flow_veh_per_hour": 3387.72,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 3387.72,
+      "sumo_vtype_distribution": {
+        "car": 0.7027,
+        "bus": 0.2027,
+        "truck": 0.0946,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "avg_detection_confidence": {
+        "car": 0.5467,
+        "motorcycle": 0.0,
+        "bus": 0.5898,
+        "truck": 0.4321,
+        "emergency": 0.0
+      }
+    },
+    {
+      "interval_id": 1,
+      "duration_seconds": 60,
+      "total_vehicles_counted": 42.5,
+      "flow_rate_veh_per_hour": 3891.3,
+      "vehicle_type_distribution": {
+        "car": 0.5647,
+        "bus": 0.2235,
+        "truck": 0.1882,
+        "motorcycle": 0.0,
+        "emergency": 0.0235
+      },
+      "smoothed_flow_veh_per_hour": 3589.15,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 3891.3,
+      "sumo_vtype_distribution": {
+        "car": 0.5647,
+        "bus": 0.2235,
+        "truck": 0.1882,
+        "motorcycle": 0.0,
+        "emergency": 0.0235
+      },
+      "avg_detection_confidence": {
+        "car": 0.5454,
+        "motorcycle": 0.0,
+        "bus": 0.5208,
+        "truck": 0.5382,
+        "emergency": 0.555
+      }
+    },
+    {
+      "interval_id": 2,
+      "duration_seconds": 60,
+      "total_vehicles_counted": 49.5,
+      "flow_rate_veh_per_hour": 4532.22,
+      "vehicle_type_distribution": {
+        "car": 0.7273,
+        "bus": 0.1616,
+        "truck": 0.1111,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "smoothed_flow_veh_per_hour": 3966.38,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 4532.22,
+      "sumo_vtype_distribution": {
+        "car": 0.7273,
+        "bus": 0.1616,
+        "truck": 0.1111,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "avg_detection_confidence": {
+        "car": 0.5407,
+        "motorcycle": 0.0,
+        "bus": 0.5419,
+        "truck": 0.5268,
+        "emergency": 0.0
+      }
+    },
+    {
+      "interval_id": 3,
+      "duration_seconds": 60,
+      "total_vehicles_counted": 44.5,
+      "flow_rate_veh_per_hour": 4074.42,
+      "vehicle_type_distribution": {
+        "car": 0.5169,
+        "bus": 0.3371,
+        "truck": 0.1236,
+        "motorcycle": 0.0,
+        "emergency": 0.0225
+      },
+      "smoothed_flow_veh_per_hour": 4009.6,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 4074.42,
+      "sumo_vtype_distribution": {
+        "car": 0.5169,
+        "bus": 0.3371,
+        "truck": 0.1236,
+        "motorcycle": 0.0,
+        "emergency": 0.0225
+      },
+      "avg_detection_confidence": {
+        "car": 0.4956,
+        "motorcycle": 0.0,
+        "bus": 0.5665,
+        "truck": 0.4464,
+        "emergency": 0.449
+      }
+    },
+    {
+      "interval_id": 4,
+      "duration_seconds": 60,
+      "total_vehicles_counted": 44.0,
+      "flow_rate_veh_per_hour": 4028.64,
+      "vehicle_type_distribution": {
+        "car": 0.6705,
+        "bus": 0.2045,
+        "truck": 0.125,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "smoothed_flow_veh_per_hour": 4017.21,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 4028.64,
+      "sumo_vtype_distribution": {
+        "car": 0.6705,
+        "bus": 0.2045,
+        "truck": 0.125,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "avg_detection_confidence": {
+        "car": 0.5118,
+        "motorcycle": 0.0,
+        "bus": 0.5116,
+        "truck": 0.5196,
+        "emergency": 0.0
+      }
+    },
+    {
+      "interval_id": 5,
+      "duration_seconds": 6.1,
+      "total_vehicles_counted": 6.5,
+      "flow_rate_veh_per_hour": 5822.02,
+      "vehicle_type_distribution": {
+        "car": 0.3846,
+        "bus": 0.5385,
+        "truck": 0.0769,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "smoothed_flow_veh_per_hour": 4739.14,
+      "lane_distribution_ratio": {
+        "zone_bottom": 1.0,
+        "zone_top": 0.0
+      },
+      "flow_per_lane": 5822.02,
+      "sumo_vtype_distribution": {
+        "car": 0.3846,
+        "bus": 0.5385,
+        "truck": 0.0769,
+        "motorcycle": 0.0,
+        "emergency": 0.0
+      },
+      "avg_detection_confidence": {
+        "car": 0.5784,
+        "motorcycle": 0.0,
+        "bus": 0.6611,
+        "truck": 0.398,
+        "emergency": 0.0
+      }
+    }
+  ],
+  "summary": {
+    "total_intervals": 6,
+    "total_vehicles_all": 224.0,
+    "mean_flow_veh_per_hour": 3951.53,
+    "peak_flow_veh_per_hour": 4739.14,
+    "overall_type_distribution": {
+      "car": 0.5855,
+      "bus": 0.2891,
+      "truck": 0.118,
+      "motorcycle": 0.0,
+      "emergency": 0.0074
+    },
+    "hourly_demand_profile": [
+      3387.72,
+      3589.15,
+      3966.38,
+      4009.6,
+      4017.21,
+      4739.14,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53,
+      3951.53
+    ],
+    "mean_flow_per_lane": 4289.39,
+    "overall_sumo_vtype_distribution": {
+      "car": 0.5855,
+      "bus": 0.2891,
+      "truck": 0.118,
+      "motorcycle": 0.0,
+      "emergency": 0.0074
+    },
+    "overall_avg_detection_confidence": {
+      "car": 0.5373,
+      "motorcycle": 0.0,
+      "bus": 0.5684,
+      "truck": 0.4744,
+      "emergency": 0.4991
+    }
+  }
+}

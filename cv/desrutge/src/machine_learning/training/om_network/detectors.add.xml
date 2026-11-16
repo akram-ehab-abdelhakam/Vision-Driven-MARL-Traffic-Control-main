@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+    <!-- Detectors on the 4 highest-coverage internal edges.
+         Selected by weighted path analysis across all 25 OD pairs in OM.rou.xml.
+         Covers both left side (E2=TL1→TL2, E0=TL2→east) and
+         right side (E15=TL3→TL4, E13=central east connector).
+         via= is removed from validar_trips() so these are pure counters for FARM.py. -->
+
+    <!-- E13: clusterJ12→clusterJ25  (3 lanes, 77.1m) — most-used edge, coverage=1500 -->
+    <inductionLoop id="det_E13_0" lane="E13_0" pos="10.0" period="900" file="det_E13_0.xml"/>
+    <inductionLoop id="det_E13_1" lane="E13_1" pos="10.0" period="900" file="det_E13_1.xml"/>
+    <inductionLoop id="det_E13_2" lane="E13_2" pos="10.0" period="900" file="det_E13_2.xml"/>
+
+    <!-- E0: TL2→clusterJ12  (2 lanes, 271.2m) — coverage=1400 -->
+    <inductionLoop id="det_E0_0"  lane="E0_0"  pos="10.0" period="900" file="det_E0_0.xml"/>
+    <inductionLoop id="det_E0_1"  lane="E0_1"  pos="10.0" period="900" file="det_E0_1.xml"/>
+
+    <!-- E15: TL3→TL4  (3 lanes, 57.7m) — right-side corridor, coverage=1300 -->
+    <inductionLoop id="det_E15_0" lane="E15_0" pos="10.0" period="900" file="det_E15_0.xml"/>
+    <inductionLoop id="det_E15_1" lane="E15_1" pos="10.0" period="900" file="det_E15_1.xml"/>
+    <inductionLoop id="det_E15_2" lane="E15_2" pos="10.0" period="900" file="det_E15_2.xml"/>
+
+    <!-- E2: TL1→TL2  (4 lanes, 90.6m) — left-side main corridor, coverage=1100 -->
+    <inductionLoop id="det_E2_0"  lane="E2_0"  pos="10.0" period="900" file="det_E2_0.xml"/>
+    <inductionLoop id="det_E2_1"  lane="E2_1"  pos="10.0" period="900" file="det_E2_1.xml"/>
+    <inductionLoop id="det_E2_2"  lane="E2_2"  pos="10.0" period="900" file="det_E2_2.xml"/>
+    <inductionLoop id="det_E2_3"  lane="E2_3"  pos="10.0" period="900" file="det_E2_3.xml"/>
+
+</additional>

@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.Python
+build/
+dist/
+*.whl
+*.so
+*.dylib
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Model checkpoints / training outputs (regenerable)
+checkpoints/
+*.pt
+*.pth
+onnx/
+*.onnx
+*.onnx.data
+
+# SUMO simulation outputs
+tripinfo.xml
+emissions.xml
+fcd.xml
+emissions_out.xml
+
+# TensorBoard logs
+*.tfevents.*
+tensorboard/
+
+# Archives / backups (no source control)
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+tempCodeRunnerFile.py
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.csv
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/

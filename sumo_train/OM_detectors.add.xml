@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <laneAreaDetector id="det_J1_from_J19_0" lane="J19J1_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J1_from_J24_0" lane="J24J1_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J1_from_J26_0" lane="J26J1_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J1_from_J21_0" lane="J21J1_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J7_from_J19_0" lane="J19J7_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J7_from_J24_0" lane="J24J7_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J7_from_J26_0" lane="J26J7_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J7_from_J21_0" lane="J21J7_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J7_from_J44_0" lane="J44J7_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J18_from_J26_0" lane="J26J18_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J18_from_J21_0" lane="J21J18_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J18_from_J8_0" lane="J8J18_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J18_from_J44_0" lane="J44J18_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J22_from_J0_0" lane="J0J22_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J22_from_J21_0" lane="J21J22_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J22_from_J8_0" lane="J8J22_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+    <laneAreaDetector id="det_J22_from_J44_0" lane="J44J22_0" pos="-80" endPos="-0.1" friendlyPos="true" freq="100" file="det_output.xml"/>
+</additional>
